@@ -49,7 +49,7 @@ The report includes the following sections:
 
 ---
 
-## 💻 Shell Scripts
+##  Shell Scripts
 
 This project includes 5 shell scripts:
 
@@ -70,7 +70,7 @@ Takes user input and generates a personalized text file.
 
 ---
 
-## ▶️ How to Run the Scripts
+##  How to Run the Scripts
 
 1. Open terminal (Linux / WSL)
 2. Navigate to project folder:
@@ -84,13 +84,13 @@ chmod +x script1.sh
 For Script 4:
 ./script4.sh log.txt
 
---
+---
 
 ## Output
 
 Screenshots of all script outputs are included in the project report.
 
---
+---
 
 ## Key Learnings
 Understanding open-source software concepts
@@ -98,7 +98,7 @@ Learning how Git works in real-world scenarios
 Working with Linux environment
 Writing and executing shell scripts
 
---
+---
 
 ## Conclusion
 
