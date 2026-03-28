@@ -104,7 +104,7 @@ Writing and executing shell scripts
 
 This project helped me understand the importance of open-source software and how tools like Git are used in real-world development. I also gained practical experience with Linux and scripting, which will be useful in my future career.
 
---
+---
 
 ## References
 Git Official Documentation
