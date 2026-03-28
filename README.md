@@ -84,9 +84,13 @@ chmod +x script1.sh
 For Script 4:
 ./script4.sh log.txt
 
+--
+
 ## Output
 
 Screenshots of all script outputs are included in the project report.
+
+--
 
 ## Key Learnings
 Understanding open-source software concepts
@@ -94,9 +98,13 @@ Learning how Git works in real-world scenarios
 Working with Linux environment
 Writing and executing shell scripts
 
+--
+
 ## Conclusion
 
 This project helped me understand the importance of open-source software and how tools like Git are used in real-world development. I also gained practical experience with Linux and scripting, which will be useful in my future career.
+
+--
 
 ## References
 Git Official Documentation
